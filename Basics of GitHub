@@ -1,0 +1,23 @@
+GitHub
+Gitlabs
+BigBucket
+
+For the first time need to configure GitHub on our system
+git config --global user.name "sonal-madhukar"
+git config --global user.email "sonalmadhukar612@gmail"
+git config --global colour.ui auto
+
+
+Mandatory Commands:
+git init
+git remote add origin https://github.com/sonal-madhukar/Gitdemo.git
+
+
+
+git pull origin main
+
+git remote add origin https://github.com/sonal-madhukar/Gitdemo.git
+
+
+
+git pull origin main
